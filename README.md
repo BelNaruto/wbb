@@ -321,4 +321,21 @@ Retrieve schedule data for a specific team and season.
 
 If you have any question, feel free to send us a private message. Have a nice day!
 
+## Commonly Asked Questions
 
+### 1. What kind of data can I access through the Women's College Basketball API?
+You can access live game data, player and team statistics, game schedules, and historical data.
+
+### 2. How do I authenticate my API requests?
+You must include your API key in the headers of your requests as outlined in the API documentation.
+
+### 3. Are there usage limits for the API?
+Yes, usage limits vary based on your chosen subscription plan. Check the RapidAPI dashboard for specifics.
+
+### 4. Can I filter data by specific teams or players?
+Yes, the API allows filtering to retrieve data for specific teams, players, or games.
+
+### 5. Is historical data available for past seasons?
+Yes, the Women's College Basketball API includes historical data for previous seasons, allowing for detailed comparisons and analysis.
+
+For more information and to start using the Women's College Basketball API, visit [Women's College Basketball API on RapidAPI](https://rapidapi.com/belchiorarkad-FqvHs2EDOtP/api/womens-college-basketball-wbb).
